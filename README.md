@@ -4,7 +4,7 @@
 
 # Create Release
 
-Use this action create a changelog of all the changes since hte last release, then generate a new release and tag
+Use this action create a changelog of all the changes since the last release, then generate a new release and tag
 
 # Usage
 Include the following step in an existing workflow:
